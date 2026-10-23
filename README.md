@@ -1,1 +1,4 @@
-# CSharpRepository
+This application was meant to make registering for certain classes as easy as possible.
+Console applications are more linear than WPF applications, consoles mainly rely on 'commands' while the WPF has a dropdown menu with options that are easier to comprehend. I had to create new text boxes and allocate areas that displayed messages.
+I debugged my applications by first running them and when I encountered a problem I didn't know how to solve I did research on it, for example I really struggled with XAML coding, so after doing a lot of research I figured it out.
+I just did research and looked around forums, as well as learning the material from the book. However, I really struggled with the downloaded interactive content. There were some files that just didn't work with the version of visual studio I was recommended (which was outadated).
